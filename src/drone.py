@@ -55,7 +55,8 @@ class Drone:
         # Use physics step for thrust and gravity
         temp = PhysicsDrone(x=self.x, y=self.y, z=self.z,
                            vx=self.vx, vy=self.vy, vz=self.vz,
-                           mass=self.mass)
+                           mass=self.mass,
+                           drag=self.drag_coeff)
         temp.step(dt, thrust_vec)
         self.x, self.y, self.z = temp.x, temp.y, temp.z
         self.vx, self.vy, self.vz = temp.vx, temp.vy, temp.vz

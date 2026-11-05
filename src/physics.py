@@ -5,7 +5,7 @@ import math
 GRAVITY = 9.81
 
 class Drone:
-    def __init__(self, x=0.0, y=0.0, z=0.0, vx=0.0, vy=0.0, vz=0.0, mass=1.0, thrust_max=10.0):
+    def __init__(self, x=0.0, y=0.0, z=0.0, vx=0.0, vy=0.0, vz=0.0, mass=1.0, thrust_max=10.0, drag=0.0):
         self.x = x
         self.y = y
         self.z = z
@@ -14,6 +14,7 @@ class Drone:
         self.vz = vz
         self.mass = mass
         self.thrust_max = thrust_max
+        self.drag = drag
         self.rotation = 0.0
         self.wx = 0.0
         self.wy = 0.0
@@ -44,6 +45,11 @@ class Drone:
         self.vx += ax * dt
         self.vy += ay * dt
         self.vz += az * dt
+
+        if self.drag > 0.0:
+            self.vx *= (1.0 - self.drag * dt)
+            self.vy *= (1.0 - self.drag * dt)
+            self.vz *= (1.0 - self.drag * dt)
 
         self.x += self.vx * dt
         self.y += self.vy * dt
