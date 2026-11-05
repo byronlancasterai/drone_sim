@@ -1,0 +1,17 @@
+[
+  {
+    "name": "agentic-context-engine",
+    "stars": 12500,
+    "desc": "Make your agents learn from experience."
+  },
+  {
+    "name": "memgpt",
+    "stars": 35000,
+    "desc": "LLM agents with continuous memory."
+  },
+  {
+    "name": "py-mem",
+    "stars": 800,
+    "desc": "Local memory management."
+  }
+]

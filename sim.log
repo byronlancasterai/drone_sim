@@ -1,0 +1,19 @@
+Initializing simulation...
+DEBUG: len(vertices)=24, len(vertices_ctypes)=24
+Traceback (most recent call last):
+  File "/config/byron/projects/drone_sim/sim_loop_fixed.py", line 44, in <module>
+    main()
+    ~~~~^^
+  File "/config/byron/projects/drone_sim/sim_loop_fixed.py", line 24, in main
+    drone = Drone()
+  File "/config/byron/projects/drone_sim/src/drone.py", line 42, in __init__
+    domain = VertexDomain({'vertex': {'data': vertices_ctypes, 'format': 'f', 'location': 0, 'count': 8, 'instance': False}})
+  File "/config/.local/lib/python3.13/site-packages/pyglet/graphics/vertexdomain.py", line 422, in __init__
+    attribute.set_pointer(buffer.ptr)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "/config/.local/lib/python3.13/site-packages/pyglet/graphics/shader.py", line 307, in set_pointer
+    glVertexAttribPointer(self.location, self.count, self.gl_type, self.normalize, self.stride, ptr)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/config/.local/lib/python3.13/site-packages/pyglet/gl/lib.py", line 83, in errcheck
+    raise GLException(msg)
+pyglet.gl.lib.GLException: (0x1281): Invalid value. A numeric argument is out of range.

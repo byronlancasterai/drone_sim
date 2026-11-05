@@ -1,0 +1,787 @@
+Initializing simulation...
+Starting loop
+Drone color set to: (1.0, 0.0, 0.0)
+pos: 0.000, 0.000, -0.000
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.00 rad
+Renderer: present called
+pos: 0.000, 0.000, -0.003
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.02 rad
+Renderer: present called
+pos: 0.000, 0.000, -0.008
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.03 rad
+Renderer: present called
+pos: 0.000, 0.000, -0.017
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.05 rad
+Renderer: present called
+pos: 0.000, 0.000, -0.028
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.07 rad
+Renderer: present called
+pos: 0.000, 0.000, -0.042
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.08 rad
+Renderer: present called
+pos: 0.000, 0.000, -0.059
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.10 rad
+Renderer: present called
+pos: 0.000, 0.000, -0.078
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.12 rad
+Renderer: present called
+pos: 0.000, 0.000, -0.101
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.14 rad
+Renderer: present called
+pos: 0.000, 0.000, -0.126
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.15 rad
+Renderer: present called
+pos: 0.000, 0.000, -0.154
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.17 rad
+Renderer: present called
+pos: 0.000, 0.000, -0.184
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.19 rad
+Renderer: present called
+pos: 0.000, 0.000, -0.217
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.20 rad
+Renderer: present called
+pos: 0.000, 0.000, -0.253
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.22 rad
+Renderer: present called
+pos: 0.000, 0.000, -0.291
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.24 rad
+Renderer: present called
+pos: 0.000, 0.000, -0.332
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.25 rad
+Renderer: present called
+pos: 0.000, 0.000, -0.376
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.27 rad
+Renderer: present called
+pos: 0.000, 0.000, -0.424
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.29 rad
+Renderer: present called
+pos: 0.000, 0.000, -0.473
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.30 rad
+Renderer: present called
+pos: 0.000, 0.000, -0.525
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.32 rad
+Renderer: present called
+pos: 0.000, 0.000, -0.580
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.34 rad
+Renderer: present called
+pos: 0.000, 0.000, -0.639
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.35 rad
+Renderer: present called
+pos: 0.000, 0.000, -0.698
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.37 rad
+Renderer: present called
+pos: 0.000, 0.000, -0.761
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.39 rad
+Renderer: present called
+pos: 0.000, 0.000, -0.827
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.40 rad
+Renderer: present called
+pos: 0.000, 0.000, -0.895
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.42 rad
+Renderer: present called
+pos: 0.000, 0.000, -0.967
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.44 rad
+Renderer: present called
+pos: 0.000, 0.000, -1.042
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.46 rad
+Renderer: present called
+pos: 0.000, 0.000, -1.118
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.47 rad
+Renderer: present called
+pos: 0.000, 0.000, -1.198
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.49 rad
+Renderer: present called
+pos: 0.000, 0.000, -1.280
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.51 rad
+Renderer: present called
+pos: 0.000, 0.000, -1.366
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.52 rad
+Renderer: present called
+pos: 0.000, 0.000, -1.453
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.54 rad
+Renderer: present called
+pos: 0.000, 0.000, -1.543
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.56 rad
+Renderer: present called
+pos: 0.000, 0.000, -1.636
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.57 rad
+Renderer: present called
+pos: 0.000, 0.000, -1.732
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.59 rad
+Renderer: present called
+pos: 0.000, 0.000, -1.829
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.61 rad
+Renderer: present called
+pos: 0.000, 0.000, -1.929
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.63 rad
+Renderer: present called
+pos: 0.000, 0.000, -2.034
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.64 rad
+Renderer: present called
+pos: 0.000, 0.000, -2.141
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.66 rad
+Renderer: present called
+pos: 0.000, 0.000, -2.249
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.68 rad
+Renderer: present called
+pos: 0.000, 0.000, -2.359
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.69 rad
+Renderer: present called
+pos: 0.000, 0.000, -2.472
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.71 rad
+Renderer: present called
+pos: 0.000, 0.000, -2.591
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.73 rad
+Renderer: present called
+pos: 0.000, 0.000, -2.708
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.74 rad
+Renderer: present called
+pos: 0.000, 0.000, -2.829
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.76 rad
+Renderer: present called
+pos: 0.000, 0.000, -2.953
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.78 rad
+Renderer: present called
+pos: 0.000, 0.000, -3.079
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.79 rad
+Renderer: present called
+pos: 0.000, 0.000, -3.208
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.81 rad
+Renderer: present called
+pos: 0.000, 0.000, -3.339
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.83 rad
+Renderer: present called
+pos: 0.000, 0.000, -3.472
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.84 rad
+Renderer: present called
+pos: 0.000, 0.000, -3.607
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.86 rad
+Renderer: present called
+pos: 0.000, 0.000, -3.746
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.88 rad
+Renderer: present called
+pos: 0.000, 0.000, -3.888
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.89 rad
+Renderer: present called
+pos: 0.000, 0.000, -4.031
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.91 rad
+Renderer: present called
+pos: 0.000, 0.000, -4.177
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.93 rad
+Renderer: present called
+pos: 0.000, 0.000, -4.327
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.95 rad
+Renderer: present called
+pos: 0.000, 0.000, -4.480
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.96 rad
+Renderer: present called
+pos: 0.000, 0.000, -4.637
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=0.98 rad
+Renderer: present called
+pos: 0.000, 0.000, -4.798
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.00 rad
+Renderer: present called
+pos: 0.000, 0.000, -4.959
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.01 rad
+Renderer: present called
+pos: 0.000, 0.000, -5.120
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.03 rad
+Renderer: present called
+pos: 0.000, 0.000, -5.287
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.05 rad
+Renderer: present called
+pos: 0.000, 0.000, -5.453
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.06 rad
+Renderer: present called
+pos: 0.000, 0.000, -5.623
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.08 rad
+Renderer: present called
+pos: 0.000, 0.000, -5.796
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.10 rad
+Renderer: present called
+pos: 0.000, 0.000, -5.971
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.12 rad
+Renderer: present called
+pos: 0.000, 0.000, -6.149
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.13 rad
+Renderer: present called
+pos: 0.000, 0.000, -6.330
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.15 rad
+Renderer: present called
+pos: 0.000, 0.000, -6.511
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.17 rad
+Renderer: present called
+pos: 0.000, 0.000, -6.697
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.18 rad
+Renderer: present called
+pos: 0.000, 0.000, -6.888
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.20 rad
+Renderer: present called
+pos: 0.000, 0.000, -7.077
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.22 rad
+Renderer: present called
+pos: 0.000, 0.000, -7.269
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.23 rad
+Renderer: present called
+pos: 0.000, 0.000, -7.464
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.25 rad
+Renderer: present called
+pos: 0.000, 0.000, -7.661
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.27 rad
+Renderer: present called
+pos: 0.000, 0.000, -7.860
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.28 rad
+Renderer: present called
+pos: 0.000, 0.000, -8.061
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.30 rad
+Renderer: present called
+pos: 0.000, 0.000, -8.264
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.32 rad
+Renderer: present called
+pos: 0.000, 0.000, -8.470
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.33 rad
+Renderer: present called
+pos: 0.000, 0.000, -8.680
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.35 rad
+Renderer: present called
+pos: 0.000, 0.000, -8.891
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.37 rad
+Renderer: present called
+pos: 0.000, 0.000, -9.107
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.39 rad
+Renderer: present called
+pos: 0.000, 0.000, -9.322
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.40 rad
+Renderer: present called
+pos: 0.000, 0.000, -9.540
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.42 rad
+Renderer: present called
+pos: 0.000, 0.000, -9.760
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.44 rad
+Renderer: present called
+pos: 0.000, 0.000, -9.983
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.45 rad
+Renderer: present called
+pos: 0.000, 0.000, -10.208
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.47 rad
+Renderer: present called
+pos: 0.000, 0.000, -10.436
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.49 rad
+Renderer: present called
+pos: 0.000, 0.000, -10.667
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.50 rad
+Renderer: present called
+pos: 0.000, 0.000, -10.898
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.52 rad
+Renderer: present called
+pos: 0.000, 0.000, -11.136
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.54 rad
+Renderer: present called
+pos: 0.000, 0.000, -11.375
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.55 rad
+Renderer: present called
+pos: 0.000, 0.000, -11.619
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.57 rad
+Renderer: present called
+pos: 0.000, 0.000, -11.863
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.59 rad
+Renderer: present called
+pos: 0.000, 0.000, -12.107
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.60 rad
+Renderer: present called
+pos: 0.000, 0.000, -12.354
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.62 rad
+Renderer: present called
+pos: 0.000, 0.000, -12.604
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.64 rad
+Renderer: present called
+pos: 0.000, 0.000, -12.862
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.66 rad
+Renderer: present called
+pos: 0.000, 0.000, -13.118
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.67 rad
+Renderer: present called
+pos: 0.000, 0.000, -13.375
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.69 rad
+Renderer: present called
+pos: 0.000, 0.000, -13.635
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.71 rad
+Renderer: present called
+pos: 0.000, 0.000, -13.898
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.72 rad
+Renderer: present called
+pos: 0.000, 0.000, -14.161
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.74 rad
+Renderer: present called
+pos: 0.000, 0.000, -14.428
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.76 rad
+Renderer: present called
+pos: 0.000, 0.000, -14.697
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.77 rad
+Renderer: present called
+pos: 0.000, 0.000, -14.967
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.79 rad
+Renderer: present called
+pos: 0.000, 0.000, -15.239
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.81 rad
+Renderer: present called
+pos: 0.000, 0.000, -15.514
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.82 rad
+Renderer: present called
+pos: 0.000, 0.000, -15.791
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.84 rad
+Renderer: present called
+pos: 0.000, 0.000, -16.072
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.86 rad
+Renderer: present called
+pos: 0.000, 0.000, -16.354
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.87 rad
+Renderer: present called
+pos: 0.000, 0.000, -16.640
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.89 rad
+Renderer: present called
+pos: 0.000, 0.000, -16.927
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.91 rad
+Renderer: present called
+pos: 0.000, 0.000, -17.216
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.92 rad
+Renderer: present called
+pos: 0.000, 0.000, -17.506
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.94 rad
+Renderer: present called
+pos: 0.000, 0.000, -17.799
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.96 rad
+Renderer: present called
+pos: 0.000, 0.000, -18.094
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.97 rad
+Renderer: present called
+pos: 0.000, 0.000, -18.394
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=1.99 rad
+Renderer: present called
+pos: 0.000, 0.000, -18.696
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.01 rad
+Renderer: present called
+pos: 0.000, 0.000, -18.997
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.03 rad
+Renderer: present called
+pos: 0.000, 0.000, -19.305
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.04 rad
+Renderer: present called
+pos: 0.000, 0.000, -19.616
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.06 rad
+Renderer: present called
+pos: 0.000, 0.000, -19.928
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.08 rad
+Renderer: present called
+pos: 0.000, 0.000, -20.239
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.09 rad
+Renderer: present called
+pos: 0.000, 0.000, -20.552
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.11 rad
+Renderer: present called
+pos: 0.000, 0.000, -20.868
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.13 rad
+Renderer: present called
+pos: 0.000, 0.000, -21.189
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.14 rad
+Renderer: present called
+pos: 0.000, 0.000, -21.510
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.16 rad
+Renderer: present called
+pos: 0.000, 0.000, -21.833
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.18 rad
+Renderer: present called
+pos: 0.000, 0.000, -22.159
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.19 rad
+Renderer: present called
+pos: 0.000, 0.000, -22.490
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.21 rad
+Renderer: present called
+pos: 0.000, 0.000, -22.820
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.23 rad
+Renderer: present called
+pos: 0.000, 0.000, -23.150
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.24 rad
+Renderer: present called
+pos: 0.000, 0.000, -23.487
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.26 rad
+Renderer: present called
+pos: 0.000, 0.000, -23.825
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.28 rad
+Renderer: present called
+pos: 0.000, 0.000, -24.163
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.30 rad
+Renderer: present called
+pos: 0.000, 0.000, -24.504
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.31 rad
+Renderer: present called
+pos: 0.000, 0.000, -24.847
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.33 rad
+Renderer: present called
+pos: 0.000, 0.000, -25.192
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.35 rad
+Renderer: present called
+pos: 0.000, 0.000, -25.538
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.36 rad
+Renderer: present called
+pos: 0.000, 0.000, -25.892
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.38 rad
+Renderer: present called
+pos: 0.000, 0.000, -26.244
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.40 rad
+Renderer: present called
+pos: 0.000, 0.000, -26.599
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.41 rad
+Renderer: present called
+pos: 0.000, 0.000, -26.957
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.43 rad
+Renderer: present called
+pos: 0.000, 0.000, -27.314
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.45 rad
+Renderer: present called
+pos: 0.000, 0.000, -27.677
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.46 rad
+Renderer: present called
+pos: 0.000, 0.000, -28.040
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.48 rad
+Renderer: present called
+pos: 0.000, 0.000, -28.404
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.50 rad
+Renderer: present called
+pos: 0.000, 0.000, -28.771
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.51 rad
+Renderer: present called
+pos: 0.000, 0.000, -29.141
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.53 rad
+Renderer: present called
+pos: 0.000, 0.000, -29.512
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.55 rad
+Renderer: present called
+pos: 0.000, 0.000, -29.886
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.56 rad
+Renderer: present called
+pos: 0.000, 0.000, -30.260
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.58 rad
+Renderer: present called
+pos: 0.000, 0.000, -30.639
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.60 rad
+Renderer: present called
+pos: 0.000, 0.000, -31.019
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.62 rad
+Renderer: present called
+pos: 0.000, 0.000, -31.399
+Renderer: clear called
+Renderer: draw called for drone 256272752015216
+Renderer: Drone rotation=2.63 rad

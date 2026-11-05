@@ -1,0 +1,66 @@
+--- /config/byron/projects/drone_sim/sim_loop.py	2026-11-01 23:59:26.172988912 -0500
++++ /config/byron/projects/drone_sim/sim_loop_fixed.py	2026-11-02 08:37:56.105392728 -0500
+@@ -1,33 +1,44 @@
+ import sys
+ import os
+ import time
+-import threading
+ 
+ # Add src to path
+-sys.path.insert(0, os.path.join(os.path.dirname(__file__), "src"))
++sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'src'))
+ 
++from MiniGL import MiniGL
++from Renderer_fixed import Renderer
+ from drone import Drone
+-from renderer import Renderer
+ 
+ def main():
+-    renderer = Renderer()
++    print("Initializing simulation...")
++    
++    # Initialize MiniGL
++    miniGL = MiniGL()
++    miniGL.init()
++    
++    # Create Renderer
++    config = {'width': 800, 'height': 600}
++    renderer = Renderer(miniGL, config)
++    
++    # Create Drone
+     drone = Drone()
+     
+-    last_time = time.time()
++    print("Starting loop")
+     
+-    try:
+-        while True:
+-            now = time.time()
+-            delta = now - last_time
+-            last_time = now
+-
+-            drone.update(delta)
+-            renderer.clear()
+-            renderer.draw(drone)
+-            renderer.present()
+-            time.sleep(0.016)
+-    except KeyboardInterrupt:
+-        print("Simulation ended.")
++    # Run the simulation loop using pyglet's event loop
++    # We need to hook into pyglet's draw event
++    @miniGL.window.event
++    def on_draw():
++        renderer.clear()
++        renderer.draw(drone)
++        renderer.present()
++    
++    # Change drone color to red on start to verify edit
++    drone.color = (1.0, 0.0, 0.0)
++    print(f"Drone color set to: {drone.color}")
++    
++    # Start the loop
++    miniGL.loop(None)
+ 
+-if __name__ == "__main__":
++if __name__ == '__main__':
+     main()
